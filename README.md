@@ -500,12 +500,12 @@ Search students instantly by Student ID or name.
 
 ## Author
 
-**Ankit Aryal**
+**Rishi Raj**
 
 Computer Science Student  
-Catawba College
+SIRT College
 
-GitHub: https://github.com/aryalankit121
+GitHub: https://github.com/rajraj843108
 
 ---
 
